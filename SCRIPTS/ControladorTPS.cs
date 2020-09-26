@@ -15,7 +15,7 @@ public class ControladorTPS : MonoBehaviour
     Quaternion rotacion = Quaternion.identity;
 
 
-    // Start is called before the first frame update
+    // El método Start si ejecuta una sola vez al inicio de la escena en la cual esta siendo ocupado
     void Start()
     {
         //Inicamos cada uno de los atributos
